@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 jobs:
   publicar-paquete:
     runs-on: ubuntu-latest

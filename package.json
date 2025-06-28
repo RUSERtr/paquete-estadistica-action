@@ -10,7 +10,7 @@
     "url": "https://github.com/icebeam7/paquete-estadistica-js.git"
   },
   "keywords": [],
-  "author": "Luis Beltrán",
+  "author": "Sergio Troncoso",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
